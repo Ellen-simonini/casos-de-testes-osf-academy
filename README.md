@@ -15,7 +15,7 @@ A **QA Academy** é uma iniciativa educacional da OSF Digital Academy focada em:
 
 ### Imagem do Projeto
 
-![Banner QA Academy](./images/captura-tela.png)
+![Banner QA Academy](./images/validate-that-your-username-appears%20when-you-are-logged-in.png)
 *Banner representativo da QA Academy da OSF Digital Academy*
 
 ---
@@ -88,7 +88,7 @@ Iniciante → Intermediário → Avançado → Especialista
 
 ### Interface do Projeto
 
-![Interface QA Academy](./images/captura.menu.png)
+![Interface QA Academy](./images/verify-password-reset%20-%20Invalid%20Email%202.png)
 *Plataforma de interface da QA Academy com módulos, trilhas e recursos*
 
 ---
