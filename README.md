@@ -15,7 +15,7 @@ A **QA Academy** é uma iniciativa educacional da OSF Digital Academy focada em:
 
 ### Imagem do Projeto
 
-![Banner QA Academy](./images/qa-academy-banner.svg)
+![Banner QA Academy](./images/captura-tela.png)
 *Banner representativo da QA Academy da OSF Digital Academy*
 
 ---
@@ -83,19 +83,19 @@ Iniciante → Intermediário → Avançado → Especialista
 
 ### Estrutura de Testes
 
-![Estrutura de Testes](./images/estrutura-testes.svg)
+![Estrutura de Testes](./images/captura-tela.png)
 *Pirâmide de testes: base sólida em testes unitários, integração e E2E*
 
 ### Interface do Projeto
 
-![Interface QA Academy](./images/interface-qa.svg)
+![Interface QA Academy](./images/captura.menu.png)
 *Plataforma de interface da QA Academy com módulos, trilhas e recursos*
 
 ---
 
 ## 🛠️ Ferramentas Recomendadas
 
-![Ferramentas QA](./images/ferramentas-qa.svg)
+![Ferramentas QA](./images/verify-login-with-facebook.png)
 *Principais tecnologias utilizadas em Quality Assurance*
 
 Algumas ferramentas essenciais para QA:
